@@ -26,7 +26,7 @@ You can create [links](https://www.example.com) easily.
 ![Alt text](https://via.placeholder.com/150)
 ```
 
-# Output
+# My Output
 This is a <b>bold text</b> example. You can also *italicize text* and combine both to create *<b>bold italic text</b>*.
 
 
@@ -51,3 +51,29 @@ You can create <a href="https://www.example.com">links</a> easily.
 
 
 <img src="https://via.placeholder.com/150" alt="Alt text" />
+
+# Parsed by Github
+This is a **bold text** example. You can also *italicize text* and combine both to create ***bold italic text***.
+
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+
+* Item 1
+* Item 2
+  
+
+
+1. First item
+2. Second item
+   
+
+You can create [links](https://www.example.com) easily.
+
+
+![Alt text](https://via.placeholder.com/150)
