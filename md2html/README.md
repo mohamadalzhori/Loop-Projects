@@ -1,4 +1,5 @@
 # Input:
+```
 This is a **bold text** example. You can also *italicize text* and combine both to create ***bold italic text***.
 
 
@@ -23,7 +24,7 @@ You can create [links](https://www.example.com) easily.
 
 
 ![Alt text](https://via.placeholder.com/150)
-
+```
 
 # Output
 This is a <b>bold text</b> example. You can also *italicize text* and combine both to create *<b>bold italic text</b>*.
